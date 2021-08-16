@@ -4,6 +4,12 @@
 
 브라우저에서 이미지를 선택하여 AWS S3 버킷에 이미지를 업로드하는 프로젝트
 
+## IDE / Dependency
+
+IDE : STS
+
+Dependency : Maven
+
 ## 사용법
 
 1. stc/main/resources 에 application.properties 생성
