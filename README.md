@@ -2,6 +2,8 @@
 
 ## 개요
 
+![시작 화면](https://user-images.githubusercontent.com/31675804/129560332-dd7d6119-95b6-4789-8e0a-ecb61c3337ba.PNG)
+
 브라우저에서 이미지를 선택하여 AWS S3 버킷에 이미지를 업로드하는 프로젝트
 
 ## IDE / Dependency
